@@ -1,8 +1,8 @@
 
 ### Background
-This is repo contains course project work of Engineering Students from the University of Toronto. 
-CourseCode: CME538. 
-Team Name: Data Pirates. 
+This is repo contains course project work of Engineering Students from the University of Toronto. <br /> 
+CourseCode: CME538.  <br /> 
+Team Name: Data Pirates.  <br /> 
 Team Members: Priyadarshani Dokhale, Shuping Wang, Siddharth Singaraju and Ray Coden Mercurius.
 
 ### Running the Code
